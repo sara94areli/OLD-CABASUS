@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_name">Cabasus_Android</string>
+  <string name="select_image">Select image</string>
+  
+  <string name="E_mail">	E-mail	</string>
+  <string name="Password">	Contraseña	</string>
+  <string name="Sign_in">	Iniciar sesión	</string>
+  <string name="Create_account">	Crear cuenta	</string>
+  <string name="Forgot_password">	Olvido su contraseña	</string>
+
+  <string name="Cancel">	Cancelar	</string>
+  <string name="Create">	Crear	</string>
+  <string name="User_name">	Nombre de usuario	</string>
+  <string name="Age">	Edad	</string>
+  <string name="Weight">	Peso	</string>
+  <string name="Height">	Altura	</string>
+  <string name="Phone">	Telefono	</string>
+  <string name="Visibility">	Visibilidad 	</string>
+  <string name="By_signin_up">	Al registrarse, esta de acuerdo con los terminos y condiciones de uso y politicas de privacidad de CABASUS.	</string>
+  <string name="Congratulations_you_are_already">	Felicidades ya eres parte de CABASUS	</string>
+  <string name="Unable_to_create_user">	No se puede crear usuario	</string>
+  <string name="Unable_to_update_user">	No se puede actualizar usuario	</string>
+
+  <string name="reset_your_password">	Recuperar contraseña	</string>
+  <string name="Enter_the_email">	Ingresa el correo electronico con el que te registraste. Nosotros te enviaremos un mensaje con tu contraseña.	</string>
+  <string name="Email_here">	Correo electronico aqui	</string>
+  <string name="Submit">	Enviar	</string>
+
+  <string name="Cabasus_was_designed">	Cabasus fue diseñado por jinetes apasionados que desean mantenerse informados de todo lo relacionado con el caballo en un solo lugar, y mantener a la comunidad unida entodo el mundo en una ubicacion digital	</string>
+
+  <string name="Gender">	Genero	</string>
+
+  <string name="Breed">	Raza	</string>
+  <string name="Search">	Búsqueda	</string>
+
+  <string name="wants_to_share">	quiere compartir a	</string>
+  <string name="with_you">	contigo	</string>
+  <string name="Delete">	Eliminar	</string>
+  <string name="To_accept">	Aceptar	</string>
+
+  <string name="Horse">	Caballo	</string>
+
+  <string name="Activities">	Actividades	</string>
+  <string name="Only_me">	Solo yo	</string>
+  <string name="Start_an_activity">	Empezar una actividad	</string>
+
+  <string name="mts">	mts	</string>
+  <string name="hrs">	hrs	</string>
+
+  <string name="Description">	Descripcion:	</string>
+
+  <string name="Status">	Estado:	</string>
+  <string name="Happy">	Feliz	</string>
+  <string name="Sad">	Triste	</string>
+  <string name="Normal">	Normal	</string>
+
+  <string name="Begin">	Inicio	</string>
+  <string name="End">	Fin	</string>
+  <string name="Notification:">	Notificación:	</string>
+
+  <string name="How_do_you_think">	¿Cómo crees que se sintió tu caballo con esta actividad?	</string>
+
+  <string name="Select_an_option">	Seleccione una opcion	</string>
+  <string name="Camera">	Camara	</string>
+  <string name="Galery">	Galeria	</string>
+
+  <string name="Do_you_want_to_delete_this_rider">	¿Quieres eliminar este jinete?	</string>
+
+  <string name="Manage_riders">	Administrar jinetes	</string>
+  <string name="Edit_info">	Editar información	</string>
+
+  <string name="Do_you_want_to_stop_seeing_this_horse">	¿Quieres dejar de ver este caballo?	</string>
+  <string name="if_you_touch_yes">	si toca \'sí\', el caballo dejará de compartir con usted y no lo verá en esta lista, pero no se eliminará porque usted no es el propietario.	</string>
+
+  <string name="Edit">	Editar	</string>
+
+  <string name="My_diary">	Mi diario	</string>
+
+  <string name="Hot_Tips">	Consejos	</string>
+  <string name="Today">	Hoy	</string>
+  <string name="Tomorrow">	Mañana	</string>
+
+  <string name="Ready">	Listo	</string>
+  <string name="min">	min	</string>
+  <string name="sec">	sec	</string>
+
+  <string name="No_data">	Sin datos	</string>
+
+  <string name="Notifications">	Notificaciones	</string>
+
+  <string name="Done">	Hecho	</string>
+  <string name="Horse_Status">	Estado del caballo	</string>
+  <string name="Comments">	Comentarios	</string>
+
+  <string name ="End:"> Fin: </string>
+  
+  <string name="Start">	Inicar	</string>
+  <string name="Cancel">	Cacelar	</string>
+  <string name="Stop"> Finalizar </string>
+  <string name="Notification">	Notificación	</string>
+
+  <string name="Horse_Name">	Nombre del caballo	</string>
+  <string name="Horse_Weigth">	Peso del caballo	</string>
+  <string name="Horse_Height">	Altura del caballo	</string>
+  <string name="Wearable">	Dipositivo	</string>
+  <string name="DOB">	Fecha de nacimiento	</string>
+
+  <string name="Speed">	Velicodad	</string>
+  <string name="km_h">	km/h	</string>
+  <string name="Duration">	Duracion	</string>
+  <string name="Intensity">	Intensidad	</string>
+
+  <string name="Settings">	Configuraciones	</string>
+
+  <string name="There_is_no_activity_for_this_day">	No hay actividad para este dia	</string>
+
+  <string name="Cloud_Horses">	Caballos de nube	</string>
+  <string name="Horses_on_my_phone"> Caballos en mi teléfono </string>
+
+  <string name="Owner">	Dueño	</string>
+
+  <string name="You_have_not_yet_downloaded_any_horse">	Aún no has descargado ningún caballo	</string>
+  <string name="problem_updating">	Hubo un problema al actualizar datos del usuario	</string>
+  <string name="problem_saving">	Hubo un problema al guardar el número telefónico	</string>
+  <string name="mail_already_registered">	Correo ya registrado, utilice otro	</string>
+  <string name="Congratulations">	Felicidades ahora eres parte de CABASUS. Por favor revisa tu correo electronico para confirmar.	</string>
+  <string name="Problem_when_registering">	Hubo un problema al momento de registrar la cuenta	</string>
+  <string name="Mail_is_already">	El correo ya está registrado revisa la confirmación de tu correo	</string>
+  <string name="The_password">	Contraseña incorrecta	</string>
+  <string name="Empty_mail">	Correo vacío	</string>
+  <string name="Empty_password">	Contraseña vacia	</string>
+  <string name="Empty_user">	Usuario vacío	</string>
+  <string name="Invalid">	Usuario o contraseña inválidos	</string>
+  
+  <string name="Horses">	Caballos	</string>
+  <string name="Account">	Cuenta	</string>
+  <string name="About">	Acerca de	</string>
+  <string name="Languaje">	Lenguaje	</string>
+  <string name="Terms_and_Conditions">	Terminos y Condiciones	</string>
+  <string name="Log_out">	Cerrar Sesión	</string>
+  <string name="Spanish"> Español  </string>
+  <string name="English"> Inglés </string>
+  <string name="For_more_information_visit">	Para mas informacion visita	</string>
+   <string name="Are_you_sure">	¿Estás seguro?	</string>
+  <string name="Yes">	Si	</string>
+  <string name="No">	No	</string>
+  <string name="Cabasus_was_designed">	Cabasus fue diseñado por jinetes apasionados que desean mantenerse informados de todo lo relacionado con el caballo en un solo lugar, y mantener a la comunidad unida entodo el mundo en una ubicacion digital	</string>
+
+  <string name="The_information"> La información no fue encontrada </string>
+  <string name="You_need_internet"> Necesitas iternet </string>
+
+  <string name="Optional"> Opcional </string>
+  <string name="Coming_soon"> Próximamente </string>
+  <string name="You_need_to"> Necesitas agregar un nombre, peso y avena </string>
+  <string name="The_name_must"> El nombre debe ser más largo </string>
+  
+  <string name="Add_a_horse"> Agrega un caballo o conéctate a internet </string>
+  <string name="Add"> Agregar caballo </string>
+  <string name="Search_a_horse"> Buscar un caballo </string>
+  <string name="Horse_names"> Nombre del caballo... </string>
+
+  <string name="You_haven"> Aún no has descargado ningun corredor </string>
+  <string name="You_haven_downloaded"> Aún no has descargado ningun corredor </string>
+  <string name="Do_you_want_to"> ¿Deseas compartir este caballo con  </string>
+  <string name="The_horse_has_been"> El caballo ha sido compartido </string>
+  <string name="The_horse_couldn"> El caballo no se pudo compartir </string>
+  <string name="The_horse_has_already"> El caballo ya ha sido compartido con este usuario </string>
+  <string name="Do_you_want"> ¿Quieres que </string>
+  <string name="to_share_this_horse">  te comparta este caballo? </string>
+  <string name="Notification_sent_to_the_owner"> Notificacion enviada al dueño </string>
+  <string name="The_user_couldn"> No se logró notificar al usuario </string>
+  <string name="The_notification_has"> La notificación ya ha sido enviada </string>
+  <string name="You_dont_have_pending_notifications"> No tienes notificaciones pendientes </string>
+  <string name="wants_you_to_share"> quiere que le compartas a  </string>
+  <string name="The_invitation_has_been_accepted"> La invitación ha sido aceptada </string>
+  <string name="You_rejected_the_invitation"> Haz rechazado la invitación </string>
+  <string name="The_invitation_could_not_be_sent"> La invitación no se logro enviar </string>
+  <string name="Synchronizing_data"> Sincronizando datos no te desconectes </string>
+  <string name="Synchronization_error"> Error de sincronización </string>
+  <string name="Do_you_want_to_eliminate_this_horse"> ¿Quieres eliminar este caballo? </string>
+  <string name="If_you_eliminate_this_horse"> Si eliminas este caballo perderás todos los datos que no hayas sincronizado </string>
+  <string name="The_horse_couldnt_be_eliminated"> No se pudo eliminar el caballo </string>
+  <string name="Owner"> Dueño: </string>
+  <string name="Complete_synchronization"> Sincronización completa </string>
+  <string name="No_reminders_to_synchronize"> No hay recordatorios para sincronizar </string>
+  <string name="No_diary_to_synchronize"> No hay diarios para sincroniza </string>
+  <string name="No_journals_to_synchronize"> No hay jornadas para sincronizar </string>
+  
+  <string name="Seven_days_ago"> Hace 7 días </string>
+  <string name="Per_month"> Por mes </string>
+
+  <string name="Yesterday"> Ayer </string>
+  <string name="days_ago"> hacexdias </string>
+
+  <string name="Caracteres"> Por seguridad necesita una contraseña con mas de 8 caracteres </string>
+
+  <string name="New_Reminder"> Nuevo Recordatorio </string>
+  <string name="New_Journal"> Nueva Jornada </string>
+  
+  <string name="You_cant_make_reminders"> No puedes realizar recordatorios con caballos que no has descargado </string>
+  <string name="You_cant_make_journals"> No puedes realizar jornadas con caballos que no has descargado </string>
+
+  <string name="description_saving_diary"> Debes de agregar alguna descripción antes de guardar un diario</string>
+
+  <string name="Failed_to_save_data"> Error al guardar los datos </string>
+
+<string name="Image_too_small"> Imagen demasiado pequeña </string>
+
+<string name="image_with_192"> Se necesita una imagen con 192 pixeles de alto y ancho </string>
+
+<string name="You_cant_recover_image"> No puedes recuperar la imagen seleccionada </string>
+
+<string name="You_cant_make_diarys"> No puedes realizar diarios con caballos que no has descargado </string>
+
+<string name="There_arent_diaries"> No hay diarios </string>
+
+<string name="description_saving_journal"> Debes de agregar alguna descripción antes de guardar una jornada</string>
+
+<string name="The_start_date_cant"> La fecha de inicio no puede ser menor o igual que la fecah del día de hoy </string>
+
+<string name="The_end_ate_cant_be_less"> La fecha de fin no puede ser menor a la fecha de inicio </string>
+
+<string name="minutes_before">15 minutos antes</string>
+
+<string name="The_minimum_time">El tiempo mínimo para la notificación son 15 minutos antes</string>
+
+<string name="hours_before">horas antes</string>
+
+<string name="description_saving_reminder"> Debes de agregar alguna descripción antes de guardar un recordatorio</string>
+
+  <string name="Check_your_email">Revisa tu correo</string>
+
+  <string name="The_first_location">No se encontro la primera ubicación, inicia para continuar</string>
+
+  <string name="This_device_is_not_support">Este dispositivo no es compatible con los Servicios de Google Play</string>
+
+  <string name="No_activity_for_this_month">No hay actividad para este mes</string>
+
+  <string name="There_are_no_reminders">No hay recordatorios</string>
+
+  <string name="There_are_no_journals">No hay jornadas</string>
+
+  <string name="There_are_no_activities">No hay actividades</string>
+
+  <string name="Do_you_want_to_delete_this_activity">¿Quieres eliminar esta actividad?</string>
+
+  <string name="Error_deleting_local_activity">Error al eliminar actividad local</string>
+
+  <string name="You_need_internet_to_visualize_the_HOT">Necesita internet para visualizar los HOT-TIPS</string>
+
+  <string name="A_user_wants_you_to_share">Un usuario quiere que le compartas a:</string>
+  
+  <string name="Horse_shared">Caballo compartido</string>
+
+  <string name="Accepted_to_share_the_horse">Han aceptado compartirte el caballo:</string>
+
+  <string name="Invitation_accepted">Invitación aceptada</string>
+
+  <string name="Rejected_to_share_the_horse">Han rechazado compartirte el caballo:</string>
+
+  <string name="Invitation_rejected">Invitación rechazada</string>
+
+  <string name="The_owner_stopped_sharing_the_horse">El dueño dejo de compartir el caballo:</string>
+
+  <string name="Unshare_horse">Caballo descompartido</string>
+
+  <string name="The_owner_eliminated_the_horse">El dueño elimino el caballo:</string>
+
+  <string name="Horse_Eliminated">Caballo Eliminado</string>
+
+  <string name="A_user_has_shared_the_horse">Un usuario te ha compartido el caballo:</string>
+
+  <string name="The_rider_stopped_sharing">El corredor dejó de compartir a:</string>
+
+  <string name="Synchronizing_Data">Sincronizando Datos</string>
+
+  <string name="Uploading">Subiendo</string>
+
+  <string name="Connect_to_the_internet">Conectate a internet</string>
+
+  <string name="see_route"><u>Ver ruta</u></string>
+
+  <string name="error_consulting">Error al consultar informacion de actividad</string>
+
+ <string name="Reminder">Recordatorios</string>
+  
+ <string name="Team_Journal">Jornadas</string>
+
+  <string name="Foods">Consejos de alimentación</string>
+  <string name="Demand">Total de la demanda de energía:</string>
+
+  <!--Titulo-->
+  <string name="Hay">Energía de heno</string>
+
+  <!--Campos-->
+  <string name="HayDemand">Demanda de heno:</string>
+
+  <string name="HayEnergy">Energía de heno:</string>
+
+  <!--Titulo/Campo-->
+  <string name="EnergyFeed">Alimentación concentrada a demanda de energía:</string>
+
+  <!--Titulo-->
+  <string name="Feeding">Recomendación de alimentación</string>
+
+  <!-- Traduccion faltante -->
+
+  <string name="PNM">Pegus Natural Müsli:</string>
+  <string name="PCM">Pegus Classic Müsli:</string>
+  <string name="PCP">Pegus Classic Pellet:</string>
+  <string name="PPM">Pegus Power Müsli:</string>
+  <string name="PPP">Pegus Power Pellet:</string>
+  <string name="CampoAvena">Llena el campo del peso de la avena</string>
+  <string name="CampoPesoCaballo">Llena el campo del peso o raza del caballo</string>
+
+  <string name="kg">Kg</string>
+  <string name="mts">Mts</string>
+  <string name="User_information">Información del usuario</string>
+  <string name="Easy">Fácil</string>
+  <string name="Medium">Media</string>
+  <string name="Hard">Difícil</string>
+  <string name="the_activities_could_not_be_downloaded">las actividades no pudieron ser descargadas</string>
+  <string name="German">Alemán</string>
+  <string name="do_activity">Realiza actividades para ver sugerencias de alimentación</string>
+</resources>

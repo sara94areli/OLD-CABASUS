@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#80000000"
+    android:orientation="vertical"
+    android:id="@+id/GenerarFiltrosRecordatorios">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="4dp"
+            android:layout_height="100dp"
+            android:background="#c59806" />
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="100dp"
+            android:layout_weight="99"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="97"
+                android:orientation="horizontal"
+                android:id="@+id/layoutFondo">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="10"
+                    android:orientation="vertical"
+                    android:gravity="center|top|right">
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_marginTop="10dp"
+                        android:id="@+id/imgTypeReminder" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:gravity="bottom|center"
+                        android:textColor="#ffff"
+                        android:textSize="9dp"
+                        android:id="@+id/txtUbicacionRecordatorios" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="90"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="2"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="90"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="@string/Description"
+                            android:gravity="center"
+                            android:id="@+id/txtDescripcionReminder" />
+                        <ImageView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="10"
+                            android:layout_marginRight="5dp"
+                            android:src="@drawable/puntosdeopciones"
+                            android:id="@+id/btnOpcionesRecordatorio" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="30"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="@string/Begin"
+                            android:gravity="center" />
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="70"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="19/04/2018 18:29:00"
+                            android:gravity="center"
+                            android:id="@+id/lblBegin" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="30"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="@string/End:"
+                            android:gravity="center" />
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="70"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="19/04/2018 18:29:00"
+                            android:gravity="center"
+                            android:id="@+id/lblEnd" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="1"
+                        android:orientation="horizontal"
+                        android:gravity="center">
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="30"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="@string/Notification:"
+                            android:gravity="center" />
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="70"
+                            android:layout_marginRight="5dp"
+                            android:textColor="#ffff"
+                            android:text="00 hrs. 15 min. before"
+                            android:gravity="center"
+                            android:id="@+id/lblNotification" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000"
+        android:orientation="vertical" />
+</LinearLayout>

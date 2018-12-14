@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/Principal"
+    android:layout_width="match_parent"
+    android:background="#f82"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/fondologin" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:gravity="bottom"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/imageButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:src="@drawable/cabasuslogo" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.8"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="1">
+            <EditText
+                android:id="@+id/txtLoginMail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/loginmail"
+                android:background="@drawable/TextFielLogin"
+                android:ems="10"
+                android:hint="@string/E_mail"
+                android:textColor="#fff"
+                android:textSize="15sp"
+                android:inputType="textEmailAddress" />
+            <EditText
+                android:id="@+id/txtLoginPass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableRight="@drawable/loginpass"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:password="true"
+                android:textColor="#fff"
+                android:textSize="15sp"
+                android:background="@drawable/TextFielLogin"
+                android:hint="@string/Password" />
+            <Button
+                android:id="@+id/btnLoginLogin"
+                android:layout_width="match_parent"
+                android:layout_marginTop="25dp"
+                android:layout_height="30dp"
+                android:background="#C59806"
+                android:textColor="#fff"
+                android:text="@string/Sign_in" />
+            <TextView
+                android:id="@+id/btnLoginNewAccount"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="@string/Create_account"
+                android:textColor="#C59806" />
+            <TextView
+                android:id="@+id/btnForgot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="@string/Forgot_password"
+                android:textColor="#C59806" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.2"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:id="@+id/btnLoginFacebook"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_marginRight="5dp">
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/btnfacebook" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/btnLoginGoogle"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_marginLeft="5dp">
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/btngoogle" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

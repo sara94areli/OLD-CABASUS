@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:id="@+id/dialogogender"
+    android:layout_margin="40dp">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:text="@string/Gender"
+        android:textColor="#ffffff"
+        android:textSize="25dp"
+        android:gravity="center" />
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Listagender"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:scrollbarStyle="insideOverlay"
+        android:overScrollMode="never" />
+</LinearLayout>

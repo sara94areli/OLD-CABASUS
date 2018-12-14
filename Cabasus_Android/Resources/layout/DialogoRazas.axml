@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#000000"
+    android:orientation="vertical"
+    android:id="@+id/dialogoraza"
+    android:layout_margin="40dp">
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:text="@string/Breed"
+        android:textColor="#ffffff"
+        android:textSize="25dp"
+        android:gravity="center" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="horizontal"
+        android:background="#ffffff">
+        <EditText
+            android:layout_width="0dp"
+            android:layout_weight="80"
+            android:background="#FFF"
+            android:hint="@string/Search"
+            android:layout_height="40dp"
+            android:id="@+id/buscar" />
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:gravity="center|right"
+            android:layout_marginRight="4dp"
+            android:paddingBottom="1dp"
+            android:paddingTop="1dp"
+            android:src="@drawable/SettingsSearch" />
+    </LinearLayout>
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ListaRazas"
+        android:divider="@null"
+        android:dividerHeight="0dp"
+        android:scrollbarStyle="insideOverlay"
+        android:overScrollMode="never" />
+</LinearLayout>

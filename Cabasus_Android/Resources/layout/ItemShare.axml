@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#80111111"
+    android:id="@+id/linearraza">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="79"
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="4dp"
+                android:layout_height="match_parent"
+                android:background="#eabe1d" />
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="20">
+                <ImageView
+                    android:id="@+id/imgrider"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/Foto"
+                    android:padding="5dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="65"
+                android:orientation="vertical"
+                android:paddingLeft="5dp">
+                <TextView
+                    android:id="@+id/txtNombrerider"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight=".5"
+                    android:textColor="#fff"
+                    android:textSize="16dp"
+                    android:gravity="center|left" />
+                <TextView
+                    android:id="@+id/txtemailrider"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight=".5"
+                    android:textColor="#fff"
+                    android:textSize="16dp"
+                    android:gravity="center|left" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="15"
+                android:id="@+id/btneliminarrider">
+                <ImageView
+                    android:id="@+id/imgborrar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/Delete"
+                    android:padding="10dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:background="#000" />
+    </LinearLayout>
+</RelativeLayout>

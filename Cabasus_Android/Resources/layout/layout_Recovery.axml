@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/PrincipalRecovery">
+    <ImageView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:src="@drawable/fondogeneral"
+        android:scaleType="centerCrop" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#000">
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/cabasuslogo" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8.5"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/RecoveryCancel"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginLeft="15dp"
+                android:text="@string/Cancel"
+                android:textColor="#C59805"
+                android:background="@android:color/transparent"
+                android:gravity="center|left"
+                android:textAllCaps="false"
+                android:layout_weight=".5" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight=".5"
+                android:text="@string/reset_your_password"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="25dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight=".5"
+                android:text="@string/Enter_the_email"
+                android:gravity="center|top"
+                android:textColor="#fff"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:textSize="15dp" />
+            <EditText
+                android:drawableRight="@drawable/loginmail"
+                android:hint="@string/Email_here"
+                android:textSize="15dp"
+                android:inputType="textPersonName"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:singleLine="true"
+                android:id="@+id/txtRecupererEmail"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight=".5"
+                android:layout_marginRight="20dp"
+                android:layout_marginLeft="20dp"
+                android:background="@drawable/FieldRecovery" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight=".5"
+                android:layout_margin="15dp"
+                android:background="#C59805"
+                android:text="@string/Submit"
+                android:textColor="#fff"
+                android:textAllCaps="false"
+                android:textSize="16dp"
+                android:id="@+id/btnRecover" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="2.3" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

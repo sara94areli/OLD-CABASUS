@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <!-- http://stackoverflow.com/questions/1883425/android-borderless-dialog -->
+  <style name="Theme_Dialog_Translucent" parent="android:Theme.Dialog">
+    <item name="android:windowBackground">@android:color/transparent</item>
+  </style>
+
+  <style name="SwitchCompatStyle" >
+    <item name="thumbTint">@color/mNegro</item>
+    <item name="trackTint">@drawable/switch_color</item>
+  </style>
+  
+  <style name="Theme.Custom.Dark" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="actionBarStyle">@style/Theme.AppCompat</item>
+
+    </style>
+  
+    <style name="CollapsedAppBar">
+      <item name="android:textSize">24sp</item>
+      <item name="android:textColor">#FFF</item>
+      <item name="android:textStyle">normal</item>
+    </style>
+  
+</resources>

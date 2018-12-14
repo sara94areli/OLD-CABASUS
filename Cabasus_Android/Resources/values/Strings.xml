@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Cabasus_Android</string>
+  <string name="select_image">Select image</string>
+
+  <string name="E_mail">	E-mail	</string>
+  <string name="Password">	Password	</string>
+  <string name="Sign_in">	Sign in	</string>
+  <string name="Create_account">	Create account	</string>
+  <string name="Forgot_password">	Forgot password	</string>
+		
+  <string name="Cancel">	Cancel	</string>
+  <string name="Create">	Create	</string>
+  <string name="User_name">	User name	</string>
+  <string name="Age">	Age	</string>
+  <string name="Weight">	Weight	</string>
+  <string name="Height">	Height	</string>
+  <string name="Phone">	Phone	</string>
+  <string name="Visibility">	Visibility	</string>
+  <string name="By_signin_up">	By signing up, you agree to CABASUS\' Terms and conditions of Use and Privacy Policy. 	</string>
+  <string name="Congratulations_you_are_already">	Congratulations you are already part of CABASUS	</string>
+  <string name="Unable_to_create_user">	Unable to create user	</string>
+  <string name="Unable_to_update_user">	Unable to update user	</string>
+
+  <string name="reset_your_password">	reset your password	</string>
+  <string name="Enter_the_email">	Enter the email address you used to register. We will send you a message with your password.	</string>
+  <string name="Email_here">	Email here	</string>
+  <string name="Submit">	Submit	</string>
+
+  <string name="Gender">	Gender	</string>
+
+  <string name="Breed">	Breed	</string>
+  <string name="Search">	Search	</string>
+
+  <string name="wants_to_share">	wants to share	</string>
+  <string name="with_you">	with you	</string>
+  <string name="Delete">	Delete	</string>
+  <string name="To_accept">	To accept	</string>
+
+  <string name="Horse">	Horse	</string>
+
+  <string name="Activities">	Activities	</string>
+  <string name="Only_me">	Only me	</string>
+  <string name="Start_an_activity">	Start an activity	</string>
+		
+  <string name="mts">	mts	</string>
+  <string name="hrs">	hrs	</string>
+	
+  <string name="Description">	Description	</string>
+	
+  <string name="Status">	Status	</string>
+  <string name="Happy">	Happy	</string>
+  <string name="Sad">	Sad	</string>
+  <string name="Normal">	Normal	</string>
+
+  <string name ="End:"> End: </string>
+	
+  <string name="Start">	Start	</string>
+  <string name="Stop"> Stop </string>
+  <string name="Notification:">	Notification:	</string>
+	
+  <string name="How_do_you_think">	How did your horse feel with this activity?	</string>
+	
+  <string name="Select_an_option">	Select an option	</string>
+  <string name="Camera">	Camera	</string>
+  <string name="Galery">	Gallery	</string>
+	
+  <string name="Do_you_want_to_delete_this_rider">	Do you want to delete this rider?	</string>
+
+  <string name="Manage_riders">	Manage riders	</string>
+  <string name="Edit_info">	Edit info	</string>
+	
+  <string name="Do_you_want_to_stop_seeing_this_horse">	Do you want to stop seeing this horse?	</string>
+  <string name="if_you_touch_yes">	if you press \'yes\' the horse will no longer be shared with you and will not be available in the list. Only owners can delete a horse permnently.	</string>
+
+  <string name="Edit">	Edit	</string>
+	
+  <string name="My_diary">	My diary	</string>
+	
+  <string name="Hot_Tips">	Hot-Tips	</string>
+  <string name="Today">	Today	</string>
+  <string name="Tomorrow">	Tomorrow	</string>
+	
+  <string name="Ready">	Ready	</string>
+  <string name="min">	min	</string>
+  <string name="sec">	sec	</string>
+
+  <string name="No_data">	No data	</string>
+
+  <string name="Notifications">	Notifications	</string>
+
+  <string name="Done">	Done	</string>
+  <string name="Horse_Status">	Horse status	</string>
+  <string name="Comments">	Comments	</string>
+
+  <string name="Begin">	Begin	</string>
+  <string name="End">	End	</string>
+  <string name="Notification">	Notification	</string>
+
+  <string name="Horse_Name">	Horse Name	</string>
+  <string name="Horse_Weigth">	Horse Weight	</string>
+  <string name="Horse_Height">	Horse Height	</string>
+  <string name="Wearable">	Wearable	</string>
+  <string name="DOB">	Date of birth	</string>
+
+  <string name="Speed">	Speed	</string>
+  <string name="km_h">	km/h	</string>
+  <string name="Duration">	Duration	</string>
+  <string name="Intensity">	Intensity	</string>
+	
+  <string name="Settings">	Settings	</string>
+
+  <string name="There_is_no_activity_for_this_day">	There aren\'t activities for this day	</string>
+	
+  <string name="Cloud_Horses"> 	Cloud Horses	</string>
+  <string name="Horses_on_my_phone"> Horses on my phone </string>
+	
+  <string name="Owner">	Owner	</string>
+
+  <string name="You_have_not_yet_downloaded_any_horse">	You haven\'t downloaded any horse yet.	</string>
+  <string name="problem_updating">	There was a problem updating user data	</string>
+  <string name="problem_saving">	There was a problem saving the phone number	</string>
+  <string name="mail_already_registered">	Mail already registered, use another	</string>
+  <string name="Congratulations">	Congratulations! Now you are part of CABASUS.  Please check your e-mail to confirm.	</string>
+  <string name="Problem_when_registering">	There was a problem when registering the account	</string>
+  <string name="Mail_is_already">	The mail is already registered check the confirmation of your mail	</string>
+  <string name="The_password">	Incorrect password	</string>
+  <string name="Empty_mail">	Empty Mail	</string>
+  <string name="Empty_password">	Empty password	</string>
+  <string name="Empty_user">	Empty user	</string>
+  <string name="Invalid">	Invalid user or password	</string>
+
+  <string name="Horses">	Horses	</string>
+  <string name="Account">	Account	</string>
+  <string name="About">	About	</string>
+  <string name="Languaje">	Language	</string>
+  <string name="Terms_and_Conditions">	Terms and Conditions	</string>
+  <string name="Log_out">	Log out	</string>
+  <string name="Spanish"> Spanish </string>
+  <string name="English"> English </string>
+  <string name="For_more_information_visit">	For more information visit	</string>
+  <string name="Are_you_sure">	Are you sure?	</string>
+  <string name="Yes">	Yes	</string>
+  <string name="No">	No	</string>
+  <string name="Cabasus_was_designed">	Cabasus was designed by passionate riders who want to keep everything related to the horse in one place, and bring the community together in one digital platform	</string>
+
+  <string name="The_information"> The information wasn\'t found </string>
+  <string name="You_need_internet"> You need internet </string>
+  
+  <string name="Optional"> Optional </string>
+  <string name="Coming_soon"> Coming soon </string>
+  <string name="You_need_to"> You need to add a name, weigth and oat </string>
+  <string name="The_name_must"> The name must be longer </string>
+  
+  <string name="Add_a_horse"> Add a horse or connect to the internet </string>
+  <string name="Add"> Add a horse </string>
+  <string name="Search_a_horse"> Search a horse </string>
+  <string name="Horse_names"> Horse name ... </string>
+
+  <string name="You_haven"> You haven\'t downloaded any rider </string>
+  <string name="You_haven_downloaded"> You haven\'t downloaded any rider </string>
+  <string name="Do_you_want_to"> Do you want to share this horse with </string>
+  <string name="The_horse_has_been"> The horse has been shared </string>
+  <string name="The_horse_couldn"> The horse couldn\'t be shared </string>
+  <string name="The_horse_has_already"> The horse has already been shared with this user </string>
+  <string name="Do_you_want"> Do you want </string>
+  <string name="to_share_this_horse">  to share this horse with you? </string>
+  <string name="Notification_sent_to_the_owner"> Notification sent to the owner </string>
+  <string name="The_user_couldn"> The user couldn\'t be notified </string>
+  <string name="The_notification_has"> The notification has already been sent </string>
+  <string name="You_dont_have_pending_notifications"> You don\'t have pending notifications </string>
+  <string name="wants_you_to_share"> wants you to share </string>
+  <string name="The_invitation_has_been_accepted"> The invitation has been accepted </string>
+  <string name="You_rejected_the_invitation"> You rejected the invitation </string>
+  <string name="The_invitation_could_not_be_sent"> The invitation couldn\'t be sent </string>
+  <string name="Synchronizing_data"> Synchronizing data don\'t disconnect </string>
+  <string name="Synchronization_error"> Synchronization error </string>
+  <string name="Do_you_want_to_eliminate_this_horse"> Do you want to eliminate this horse? </string>
+  <string name="If_you_eliminate_this_horse"> If you eliminate this horse you will lose all the data that you haven\'t synchronized </string>
+  <string name="The_horse_couldnt_be_eliminated"> The horse couldn\'t be eliminated </string>
+  <string name="Owner"> Owner: </string>
+  <string name="Complete_synchronization"> Complete synchronization </string>
+  <string name="No_reminders_to_synchronize"> No reminders to synchronize </string>
+  <string name="No_diary_to_synchronize"> No diary to synchronize </string>
+  <string name="No_journals_to_synchronize"> No journals to synchronize </string>
+  
+  <string name="Seven_days_ago"> 7 days ago </string>
+  <string name="Per_month"> Per month </string>
+
+  <string name="Yesterday"> Yesterday </string>
+  <string name="days_ago"> days ago </string>
+
+  <string name="Caracteres"> For security you need a password with more than 8 characters </string>
+
+  <string name="New_Reminder"> New Reminder </string>
+  <string name="New_Journal"> New Journal </string>
+
+  <string name="You_cant_make_reminders"> You can\'t make reminders with horses that you don\'t have downloaded </string>
+  <string name="You_cant_make_journals"> You can\'t make journals with horses that you don\'t have downloaded </string>
+
+  <string name="description_saving_diary"> You must add some description before saving a diary</string>
+
+  <string name="Failed_to_save_data"> Failed to save data </string>
+
+  <string name="Image_too_small"> Image too small </string>
+
+  <string name="image_with_192"> You need an image with 192 pixels high and width </string>
+
+  <string name="You_cant_recover_image"> You can\'t recover the selected image </string>
+
+  <string name="There_arent_diaries"> There aren\'t diaries </string>
+
+  <string name="description_saving_journal"> You must add some description before saving a journal </string>
+
+  <string name="The_start_date_cant"> The start date can\'t be less or equal than to today\'s date </string>
+
+  <string name="The_end_ate_cant_be_less"> The end date can\'t be less than the start date </string>
+
+  <string name="minutes_before">15 minutes before</string>
+
+  <string name="The_minimum_time">The minimum time for notification is 15 minutes before</string>
+
+  <string name="hours_before">hours before</string>
+
+  <string name="description_saving_reminder"> You must add some description before saving a reminder </string>
+
+<string name="Check_your_email">Check your email</string>
+
+<string name="The_first_location">The first location wasn\'t found, start to continue</string>
+
+<string name="This_device_is_not_support">This device is not support Google Play Services</string>
+
+<string name="No_activity_for_this_month">No activity for this month</string>
+
+<string name="There_are_no_reminders">There aren\'t reminders</string>
+
+<string name="There_are_no_journals">There aren\'t journals</string>
+
+<string name="There_are_no_activities">There aren\'t activities</string>
+
+<string name="Do_you_want_to_delete_this_activity">Do you want to delete this activity?</string>
+
+<string name="Error_deleting_local_activity">Error deleting local activity</string>
+
+<string name="You_need_internet_to_visualize_the_HOT">You need internet to visualize the HOT-TIPS</string>
+
+<string name="A_user_wants_you_to_share">A user wants you to share:</string>
+
+<string name="Horse_shared">Horse shared</string>
+
+<string name="Accepted_to_share_the_horse">Accepted to share the horse:</string>
+
+<string name="Invitation_accepted">Invitation accepted</string>
+
+<string name="Rejected_to_share_the_horse">Rejected to share the horse:</string>
+
+<string name="Invitation_rejected">Invitation rejected</string>
+
+<string name="Unshare_horse">Unshare horse</string>
+
+<string name="The_owner_eliminated_the_horse">The owner eliminated the horse:</string>
+
+<string name="Horse_Eliminated">Horse Eliminated</string>  
+
+<string name="A_user_has_shared_the_horse">A user has shared the horse:</string>
+
+<string name="The_rider_stopped_sharing">The rider stopped sharing:</string>
+
+<string name="Synchronizing_Data">Synchronizing Data</string>
+
+<string name="Uploading">Uploading</string>
+
+<string name="Connect_to_the_internet">Connect to the internet</string>
+
+<string name="see_route"><u>See route</u></string>
+  
+<string name="error_consulting">Error to consulting information</string>
+
+<string name="Reminder">Reminders</string>
+
+<string name="Team_Journal">Team Journal</string>
+  
+<string name="Foods">Feed advice</string>
+<string name="Demand">Energy Demand Total:</string>
+
+  <!--Titulo-->
+<string name="Hay">Hay Energy</string>
+
+<!--Campos-->
+<string name="HayDemand">Hay Demand:</string>
+
+<string name="HayEnergy">Hay Energy:</string>
+
+<!--Titulo/Campo-->
+<string name="EnergyFeed">Energy Demand Concentrated Feed:</string>
+
+<!--Titulo-->
+<string name="Feeding">Feeding Recommendation</string>
+
+<!-- Traduccion faltante -->
+
+<string name="PNM">Pegus Natural Müsli:</string>
+<string name="PCM">Pegus Classic Müsli:</string> 
+<string name="PCP">Pegus Classic Pellet:</string>
+<string name="PPM">Pegus Power Müsli:</string>
+<string name="PPP">Pegus Power Pellet:</string>
+<string name="CampoAvena">Fill the weight field with oats</string>
+<string name="CampoPesoCaballo">Fill the horse weight or breed field</string>
+  
+<string name="kg">Kg</string>
+<string name="mts">Mts</string>
+  <string name="User_information">User information</string>
+  <string name="Easy">Easy</string>
+  <string name="Medium">Medium</string>
+  <string name="Hard">Hard</string>
+ <string name="the_activities_could_not_be_downloaded">the activities couldn\'t be downloaded</string>
+
+  <string name="German">German</string>
+<string name="do_activity">Start doing activities to see suggestions</string>
+</resources>

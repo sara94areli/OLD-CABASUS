@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104672697279",
+    "firebase_url": "https://cabasus-8cf2f.firebaseio.com",
+    "project_id": "cabasus-8cf2f",
+    "storage_bucket": "cabasus-8cf2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104672697279:android:88d998b18d689318",
+        "android_client_info": {
+          "package_name": "com.cabasus.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104672697279-o13fpluke92036dgv060i5r2k818tcne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cabasus.myapp",
+            "certificate_hash": "2540d53eca594fad668bc69521aec140e0ed4da7"
+          }
+        },
+        {
+          "client_id": "104672697279-8885md8jfnphq3gq9r636sinfi2juoo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA23dycjbOkCEqga9J0W8s8jx4C1wCZ7l4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104672697279-8885md8jfnphq3gq9r636sinfi2juoo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
